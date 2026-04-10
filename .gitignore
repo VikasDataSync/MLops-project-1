@@ -78,7 +78,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# ignore the notebook file as it is not needed to be shared and also contains some credentials
+# ignore the notebook file as it is not needed to be shared and also contains some credentials 
 notebook/mongoDB_demo.ipynb
 
 # IPython
